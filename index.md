@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Main"
 ---
 
-Howdy mowdy :)
+This is the main page :)
